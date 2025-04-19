@@ -1,4 +1,4 @@
-# LLM_RAG#
+# LLM with RAG
 
 A Retrieval-Augmented Generation (RAG) pipeline using:
 
